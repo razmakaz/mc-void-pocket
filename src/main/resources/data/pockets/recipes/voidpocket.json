@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "WPW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:wool"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "P": {
+            "item": "minecraft:ender_pearl"
+        }
+    },
+    "result": {
+        "item": "voidpocket:voidpocket",
+        "count": 1
+    }
+}
