@@ -16,7 +16,9 @@ Adds a Void Pocket to Minecraft. When configured with an item, the Void Pocket w
 
 ## Credit
 Art: Razmakaz
+
 Code: Razmakaz 
+
 Inspiration: The "/dev/null" from OpenBlocks.
 
 ## Distribution
